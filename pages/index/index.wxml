@@ -1,0 +1,7 @@
+<!--index.wxml-->
+<view class="container">
+  <text>富文本</text>
+  <view>
+    <Parser html="{{html}}" />
+  </view>
+</view>
